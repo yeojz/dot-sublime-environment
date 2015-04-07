@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<link rel="stylesheet/less" type="text/css"  href="$1.less" />$2
+]]></content>
+    <tabTrigger>less</tabTrigger>
+    <scope>text.html, text.htm</scope>
+    <description>HTML: Less link-rel</description>
+</snippet>

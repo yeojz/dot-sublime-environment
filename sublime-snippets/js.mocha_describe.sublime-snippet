@@ -1,0 +1,15 @@
+<snippet>
+    <content><![CDATA[
+describe('${1}', function(){
+
+  it('${2}', function(){
+    ${3}
+  });
+
+});
+
+]]></content>
+    <tabTrigger>describe</tabTrigger>
+    <scope>source.js</scope>
+    <description>JS Mocha: describe</description>
+</snippet>

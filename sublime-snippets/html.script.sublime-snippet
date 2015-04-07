@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+<script src="$1.js"></script>$2
+]]></content>
+    <tabTrigger>ascript</tabTrigger>
+    <scope>text.html, text.htm</scope>
+    <description>HTML: script</description>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+this.setState({
+  ${1}: ${2}
+})
+]]></content>
+    <tabTrigger>ss</tabTrigger>
+    <scope>source.js</scope>
+    <description>JS React: setState</description>
+</snippet>

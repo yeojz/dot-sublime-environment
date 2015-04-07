@@ -1,0 +1,24 @@
+<snippet>
+    <content><![CDATA[
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>$1</title>
+  <meta name="description" content="$2">
+  <meta name="author" content="$3">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">    
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+</head>
+<body>
+  $4
+</body>
+</html>
+]]></content>
+    <tabTrigger>ahtml</tabTrigger>
+    <scope>text.html, text.htm</scope>
+    <description>HTML: Skeleton</description>
+</snippet>

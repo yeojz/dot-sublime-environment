@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[
+var React = require('react');
+
+var ${1} = React.createClass({
+  render: function() {
+    return (
+      ${2:<div />}
+    );
+  }
+});
+
+module.exports = ${1};
+
+]]></content>
+    <tabTrigger>rcc</tabTrigger>
+    <scope>source.js</scope>
+    <description>ES5 React: createClass</description>
+</snippet>

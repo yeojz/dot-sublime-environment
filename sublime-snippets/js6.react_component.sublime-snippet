@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[
+import React from 'react';
+
+const ${1} = React.createClass({
+  render() {
+    return (
+      ${2:<div />}
+    );
+  }
+});
+
+export default ${1};
+
+]]></content>
+    <tabTrigger>rcc</tabTrigger>
+    <scope>source.js</scope>
+    <description>ES6 React: createClass</description>
+</snippet>

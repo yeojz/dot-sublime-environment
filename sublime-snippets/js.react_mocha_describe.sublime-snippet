@@ -1,0 +1,31 @@
+<snippet>
+    <content><![CDATA[
+describe('${1}', function(){
+  var component;
+
+  var ${2} = require('${3}.jsx');
+
+  beforeEach(function(done){
+    component = React.render(
+      React.createElement(${2}, {}),
+      document.body, 
+      function(){setTimeout(done);}
+    );
+  });
+
+  afterEach(function(done) {
+    React.unmountComponentAtNode(document.body);
+    setTimeout(done);
+  });
+
+  it('${4}', function(){
+    ${5}
+  });
+
+});
+
+]]></content>
+    <tabTrigger>describe</tabTrigger>
+    <scope>source.js</scope>
+    <description>JS React+Mocha: describe</description>
+</snippet>

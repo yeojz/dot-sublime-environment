@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc congue, nulla quis porta ultrices, justo elit tempor erat, vitae porttitor metus augue sed leo. Mauris accumsan vestibulum erat sit amet finibus. Nulla sed elit massa. Quisque ut facilisis nunc, sed feugiat nulla. Ut sed lectus eget mi cursus dignissim eget ac sapien. Fusce malesuada hendrerit lorem ac vulputate. Nullam vel purus facilisis, molestie eros vel, sodales nisl. Vivamus sed dolor et dolor iaculis commodo nec ac sem. Etiam fringilla lacus non placerat porttitor. Proin iaculis nunc ac odio sodales, quis varius lacus consectetur.
+
+Quisque porta ornare orci sit amet eleifend. Morbi mattis faucibus massa commodo ornare. Vestibulum rhoncus urna ac convallis semper. Etiam facilisis vel neque sed commodo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent elementum massa vitae convallis volutpat. Donec in auctor ex. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus at vehicula arcu, non laoreet massa. Cras vel iaculis ipsum, sed sollicitudin nulla. Cras ut metus venenatis, laoreet mauris sit amet, pharetra orci.
+
+Vivamus nulla lectus, dignissim ac accumsan id, varius eget nulla. Sed lobortis lacus orci, dictum vestibulum magna maximus eget. Vestibulum ut placerat enim. Vestibulum posuere odio vel vestibulum euismod. Proin nec nisl porta, semper turpis at, fringilla odio. Quisque eget metus ut nisl pulvinar congue. Mauris tempor vel mi eget iaculis. Suspendisse mauris nulla, scelerisque non mollis in, mollis ut est. Sed euismod nisi id augue vulputate semper.
+]]></content>
+    <tabTrigger>alorem</tabTrigger>
+    <scope>text.html, text.htm</scope>
+    <description>HTML: Lorem ipsum</description>
+</snippet>
