@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+classnames = require('classnames');
+
+]]></content>
+    <tabTrigger>classnames</tabTrigger>
+    <scope>source.js</scope>
+    <description>JS: require('classnames')</description>
+</snippet>

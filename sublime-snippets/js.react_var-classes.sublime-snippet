@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+classes = classnames({
+  ${1}
+});
+
+]]></content>
+    <tabTrigger>classes</tabTrigger>
+    <scope>source.js</scope>
+    <description>JS: React Var: classes</description>
+</snippet>
