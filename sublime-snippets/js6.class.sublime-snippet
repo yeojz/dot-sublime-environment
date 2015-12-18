@@ -1,0 +1,18 @@
+<snippet>
+    <content><![CDATA[
+
+class ${1} {
+    constructor() {
+
+    }
+
+    ${2}
+}
+
+export default ${1};
+
+]]></content>
+    <tabTrigger>class</tabTrigger>
+    <scope>source.js</scope>
+    <description>ES6 JS: class</description>
+</snippet>

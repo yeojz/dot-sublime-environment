@@ -1,13 +1,13 @@
 <snippet>
     <content><![CDATA[
 import React from 'react';
-${4}
-const ${1} = React.createClass(${3}{
-  render() {
-    return (
-      ${2:<div />}
-    );
-  }
+
+const ${1} = React.createClass({
+    render() {
+        return (
+            ${2:<div />}
+        );
+    }
 });
 
 export default ${1};

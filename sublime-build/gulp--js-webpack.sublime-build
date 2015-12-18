@@ -1,0 +1,3 @@
+{
+  "cmd": ["time", "webpack", "--config webpack.config.js"]
+}

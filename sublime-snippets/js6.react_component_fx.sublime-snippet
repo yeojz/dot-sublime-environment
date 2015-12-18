@@ -1,0 +1,16 @@
+<snippet>
+    <content><![CDATA[
+import React from 'react';
+
+export default (${1}) => {
+    return (
+        ${2:<div />}
+    );
+}
+
+
+]]></content>
+    <tabTrigger>rcc</tabTrigger>
+    <scope>source.js</scope>
+    <description>ES6 JS: function component</description>
+</snippet>

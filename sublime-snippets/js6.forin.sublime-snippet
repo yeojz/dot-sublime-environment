@@ -9,5 +9,5 @@ for (let ${1} in ${2}){
 ]]></content>
     <tabTrigger>forin</tabTrigger>
     <scope>source.js</scope>
-    <description>ES6: For-In Loop</description>
+    <description>ES6 JS: for-in loop</description>
 </snippet>

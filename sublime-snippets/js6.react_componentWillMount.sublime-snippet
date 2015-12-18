@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
 componentWillMount() {
-  ${1}
-},
+  ${2}
+}${1}
 ]]></content>
     <tabTrigger>cwm</tabTrigger>
     <scope>source.js</scope>

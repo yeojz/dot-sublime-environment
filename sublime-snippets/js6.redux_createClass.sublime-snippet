@@ -1,0 +1,46 @@
+<snippet>
+    <content><![CDATA[
+import React from 'react';
+import {connect} from 'react-redux';
+
+
+export const ${1} = React.createClass({
+    propTypes: {
+        ${2}: React.PropTypes.${3}
+    },
+
+    getDefaultProps() {
+        return {
+            
+        }
+    },
+
+    render() {
+        return (
+            ${4:<div />}
+        );
+    }
+});
+
+export function mapStateToProps(state){
+    return {}
+}
+
+export function mapDispatchToProps(dispatch){
+    return {
+        ${5}: () => dispatch(${6})
+    }
+}
+
+export default connect(
+    mapStateToProps,
+    mapDispatchToProps
+)(${1});
+
+
+
+]]></content>
+    <tabTrigger>rcc</tabTrigger>
+    <scope>source.js</scope>
+    <description>ES6 React/Redux: createClass</description>
+</snippet>

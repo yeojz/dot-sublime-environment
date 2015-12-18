@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
 componentWillReceiveProps(nextProps) {
-  ${1}
-},
+  ${2}
+}${1}
 ]]></content>
     <tabTrigger>cwr</tabTrigger>
     <scope>source.js</scope>

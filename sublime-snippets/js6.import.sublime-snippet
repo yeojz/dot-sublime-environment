@@ -4,5 +4,5 @@ import ${1} from '${2}';
 ]]></content>
     <tabTrigger>import</tabTrigger>
     <scope>source.js</scope>
-    <description>ES6: Import</description>
+    <description>ES6 JS: import</description>
 </snippet>

@@ -23,5 +23,5 @@ export default ${1};
 ]]></content>
     <tabTrigger>rcc</tabTrigger>
     <scope>source.js</scope>
-    <description>ES6 React: JS Class</description>
+    <description>ES6 React: class</description>
 </snippet>

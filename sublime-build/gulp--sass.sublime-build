@@ -1,0 +1,3 @@
+{
+  "cmd": ["time", "gulp", "sass"]
+}
